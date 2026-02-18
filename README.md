@@ -12,4 +12,4 @@ database MYSQL
 StatefulSet
 Database management
 System administerators
-Site Reliability Engineers
+Site Reliability Engineers (SLE)
