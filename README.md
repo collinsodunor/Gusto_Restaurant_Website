@@ -10,6 +10,7 @@ Docker-Composed file
 
 Creating Kubernetes cluster
 Deployment.yaml, service.yaml, ingress.yaml
+
 configmap.yaml, secrete.yaml
 Helm chart
 monitoring and alerting
