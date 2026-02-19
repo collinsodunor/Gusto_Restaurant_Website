@@ -19,6 +19,7 @@ Helm chart
 monitoring and alerting
 
 database MYSQL
+
 StatefulSet
 Database management
 System administerators
