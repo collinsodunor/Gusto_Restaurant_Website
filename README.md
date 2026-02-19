@@ -7,6 +7,7 @@ Docker client, docker daemon/engine and docker hub.
 Dockerfile
 
 Docker-Composed file
+
 Creating Kubernetes cluster
 Deployment.yaml, service.yaml, ingress.yaml
 configmap.yaml, secrete.yaml
