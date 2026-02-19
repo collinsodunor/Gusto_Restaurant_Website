@@ -15,6 +15,7 @@ Deployment.yaml, service.yaml, ingress.yaml
 configmap.yaml, secrete.yaml
 
 Helm chart
+
 monitoring and alerting
 database MYSQL
 StatefulSet
