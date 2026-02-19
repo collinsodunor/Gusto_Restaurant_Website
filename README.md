@@ -17,6 +17,7 @@ configmap.yaml, secrete.yaml
 Helm chart
 
 monitoring and alerting
+
 database MYSQL
 StatefulSet
 Database management
